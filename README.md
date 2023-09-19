@@ -2,9 +2,9 @@
   Portfolio Website<br/>
   <a href="https://5000vw.github.io/phase-0-project/" target="_blank">PERSONAL PORTFOLIO</a>
 </h2>
-<div align="center">
+<!-- <div align="center">
 <!--   <img alt="Demo" src="./Images/interf" />
-</div> -->
+</div> --> -->
 
 <br/>
 
@@ -32,5 +32,5 @@ Clone down this repository.Edit .Update.
 
 ## 🛠 Installation and Setup Instructions
 
-1. HTML BASICS ONLY
+ HTML BASICS ONLY
    
